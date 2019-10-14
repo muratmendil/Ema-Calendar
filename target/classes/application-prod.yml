@@ -1,0 +1,6 @@
+#SSL properties
+
+spring:
+  datasource:
+    url: jdbc:mysql://calendardatabase:3306/ema_calendar?autoReconnect=true&useSSL=false
+    
